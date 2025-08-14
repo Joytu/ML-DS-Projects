@@ -9,7 +9,7 @@
 - 🌱[**ML_Predicting-Biomass-Moisture-Content-Using-NIR-Spectroscopy**](https://github.com/Joytu/ML_Predicting-Biomass-Moisture-Content-Using-NIR-Spectroscopy)  
   *Applies regression models to predict biomass moisture using NIR spectroscopy data.*
 
-- 🎥[**IMDB-Movie-Review-Sentiment-Classification-Naive-Bayes-SVM-Logistic-Regression**](https://github.com/Joytu/IMDB-Movie-Review-Sentiment-Classification-Naive-Bayes-SVM-Logistic-Regression)  
+- 🎥[**ML_IMDb-Movie-Review-Sentiment-Classification-Naive-Bayes-SVM-Logistic-Regression**](https://github.com/Joytu/IMDB-Movie-Review-Sentiment-Classification-Naive-Bayes-SVM-Logistic-Regression)  
   *Sentiment classification of IMDB reviews using Naive Bayes, SVM, and Logistic Regression.*
 
 - 🚢[**ML_Energy-Consumption-Prediction-for-Ro-Ro-vessels-from-sensor-data**](https://github.com/Joytu/ML_Energy-Consumption-Prediction-for-Ro-Ro-vessels-from-sensor-data)  
